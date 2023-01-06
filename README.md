@@ -1,6 +1,8 @@
 # BMI-Calculator
 This is a simple Python program that calculates the Body Mass Index (BMI) of a person based on their height and weight. The BMI is a measure of body fat based on height and weight that is used to classify whether a person is underweight, normal weight, overweight, or obese.
 
+You can test a version of this calculator published on Replit [Here](https://replit.com/@labelisaiah/Body-Mass-Index-Calculator?v=1)
+
 ## Getting Started
 To use this program, you will need to have Python 3 installed on your computer. You can download Python from the [Python website.](https://www.python.org/)
 
